@@ -1,0 +1,9 @@
+# System directories
+.ipynb_checkpoints
+.DS_STORE
+__pycache__/*
+*/__pycache__/
+
+
+# Directories for data
+data/*
